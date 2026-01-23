@@ -16,7 +16,7 @@ export const Footer = () => {
               Ayan.dev
             </a>
             <p className="text-sm text-muted-foreground mt-1">
-              Android Developer | Aspiring Entrepreneur
+              Android Developer
             </p>
           </div>
 

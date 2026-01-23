@@ -46,7 +46,7 @@ export const HeroSection = () => {
               transition={{ delay: 0.4 }}
               className="text-muted-foreground text-lg mb-8 max-w-lg"
             >
-              Building modern Android apps to solve real-world problems and create impact-driven products. Aspiring entrepreneur with a passion for technology.
+              Building modern Android apps to solve real-world problems and create impact-driven products.
             </motion.p>
 
             <motion.div

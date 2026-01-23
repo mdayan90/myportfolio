@@ -22,7 +22,7 @@ export const AboutSection = () => {
     {
       icon: Rocket,
       title: 'Goal',
-      description: 'Building impact-driven products as an entrepreneur',
+      description: 'Driven to build meaningful, impact-focused products that solve real-world problems.',
     },
   ];
 
@@ -87,7 +87,7 @@ export const AboutSection = () => {
             </h3>
 
             <p className="text-muted-foreground mb-8 leading-relaxed">
-              I'm Md Ayan Hashmi, a B.Tech 3rd-year student and an aspiring entrepreneur. 
+              I'm Md Ayan Hashmi, a B.Tech 3rd-year student. 
               I work as an Android Developer, building modern apps using Java, Kotlin, and 
               Jetpack Compose. Passionate about solving real-world problems through technology 
               and creating impact-driven products that make a difference in people's lives.
