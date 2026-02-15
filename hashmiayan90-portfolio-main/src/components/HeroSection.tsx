@@ -26,7 +26,11 @@ export const HeroSection = () => {
               transition={{ delay: 0.2 }}
               className="inline-block px-4 py-2 bg-primary/10 border border-primary/30 rounded-full text-primary text-sm mb-6"
             >
+<<<<<<< HEAD
               Hello!
+=======
+               Hello!
+>>>>>>> e5c9859719288d8cb696a3aa8b1b1f8e742be052
             </motion.span>
 
             <motion.h1
